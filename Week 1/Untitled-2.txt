@@ -1,0 +1,20 @@
+<!-- paragraph -->
+         <P>This is a great thing to start</P>
+         <P>I am greatfull to do the web coding myself. 
+            There are many thing that you learn when you do thing with Love!</P>
+            <!-- un-ordered lists-->
+         <ul>
+            <li>Maths</li>
+            <li>English</li>
+            <li>Computer</li>
+            <li>Biology</li>
+
+        <!-- ordered Lists-->
+
+        <ol type="i" start="15">
+            <li>Software Dev</li>
+            <li>Web Dev</li>
+        </ol>
+
+        <!--anchor -->
+        <a href="https://ellinestech.co.ke/">Go To Ellines Tech</a>
